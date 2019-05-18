@@ -1,4 +1,4 @@
-# vue_notes_crash
+# Vue Notes - Localstorage
 
 ## Project setup
 ```
